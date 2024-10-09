@@ -1,8 +1,5 @@
 # Software Testing MOOC
+This repository is a copy of the code examples and exercises of TU Delft's edX MOOC on Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability. All exercises are recorded here
 
-This repository contains the code examples and exercises of
-TU Delft's edX MOOC on Software Testing.
-
-## License
-
-This repository is licensed under CC BY-NC-SA.
+## Process
+2024-10-09 Getting started with Automated Software Testing
